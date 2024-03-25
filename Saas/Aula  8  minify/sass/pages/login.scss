@@ -1,0 +1,5 @@
+.container{
+    p{
+        @include textStyle($btn-background, 22px, arial);
+    }
+}
